@@ -16,8 +16,7 @@ This project demonstrates **form understanding from scanned document images** us
 
 
 ## 🚀 Demo Example
-
-
+ - Attached Image as OCR.png in GitHub repo.
 > *LayoutLMv3 correctly classifies text segments and aligns them with bounding boxes.*
 
 ---
